@@ -38,9 +38,8 @@ dependencies:
   dio: 
   flutter_bloc: 
   permission_handler: ^8.1.1
-  screenshot: ^1.2.1
-  image_gallery_saver: ^1.6.9
   flutter_offline: ^2.1.0
+  flutter_file_downloader: ^1.1.0+1
   # gallery_saver: 
   
 

@@ -1,16 +1,27 @@
-# pexels
+# Wallpaper Hub
 
-A new Flutter project.
+## A new Flutter project depend on : 
+- [API from Pexels]
+- [http: ]
+- [dio: ]
+- [flutter_bloc: ]
+- [flutter_native_splash:]
+- [permission_handler: ^8.1.1]
+- [flutter_offline: ^2.1.0]
+- [flutter_file_downloader: ^1.1.0+1]
+# Features
+-  Browse and view photos as well
+-  save image to your device 
+-  you can search using keywork or character
+-  splash screen
+-  app icon
+-  category of images
+# Screenshot
 
-## Getting Started
+-  app logo
 
-This project is a starting point for a Flutter application.
+![logo](https://user-images.githubusercontent.com/103913518/222010206-455a7f7b-7910-4fcf-9518-7a73c8a1214a.png)
 
-A few resources to get you started if this is your first Flutter project:
+-  app
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![wallper](https://user-images.githubusercontent.com/103913518/222010967-b38338d8-d427-4ed3-a0b3-6cf435956d59.png)

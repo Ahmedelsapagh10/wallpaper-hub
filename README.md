@@ -18,10 +18,20 @@
 -  category of images
 # Screenshot
 
+
 -  app logo
+<div>
+ <p align="left">
+<img src='https://github.com/Ahmedelsapagh10/wallpaper-hub/blob/master/assets/images/logo.png' width="30%"/>
+</p>
+   <p align="center">
+<img src='https://github.com/Ahmedelsapagh10/wallpaper-hub/blob/master/assets/images/logo.png' width="30%"/>
+     <img src='https://github.com/Ahmedelsapagh10/wallpaper-hub/blob/master/assets/images/logo.png' width="30%"/>
 
-![logo](https://user-images.githubusercontent.com/103913518/222010206-455a7f7b-7910-4fcf-9518-7a73c8a1214a.png)
+</p>
+-  screenshot
+<p align="center">
 
--  app
-
-![wallper](https://user-images.githubusercontent.com/103913518/222010967-b38338d8-d427-4ed3-a0b3-6cf435956d59.png)
+<img src='https://github.com/Ahmedelsapagh10/wallpaper-hub/blob/master/assets/images/logo.png' width="30%"/>
+</p>
+</div>
